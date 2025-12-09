@@ -1,0 +1,97 @@
+# BASE DE CONHECIMENTO — MENTORPRO.AI
+
+## 1. WATERFALL / PMO
+- EAP → decompor escopo → pacotes → atividades → entregáveis.
+- Baseline fixa → prazo + escopo + custo.
+- Caminho crítico= atividades sem folga.
+- Entregáveis recomendados:
+  - Termo de abertura
+  - EAP
+  - Cronograma + baseline
+  - Matriz de riscos
+  - Status report quinzenal
+
+## MODELO PRONTO — EAP
+Projeto > Fase > Entregável > Atividade > Tarefa
+
+---
+
+## 2. SCRUM
+Rituais essenciais:
+- Sprint Planning → definir backlog + capacidade + meta clara.
+- Daily → impedimentos + andamento.
+- Review → validação de incremento.
+- Retro → plano de melhoria.
+
+Checklist Planning:
+1. Revisar backlog priorizado
+2. Estimar pontos
+3. Calcular capacidade do time (pontos disponíveis)
+4. Fechar meta única da sprint
+
+---
+
+## 3. BACKLOG
+História padrão:
+**Como [persona], eu quero [ação] para [benefício]**
+Criterios de Aceite:
+- Objetivo é testável
+- Cenários de uso definidos
+- Fluxo claro de done
+
+Práticas recomendadas:
+- Grooming semanal
+- Histórias pequenas
+- definição DoR e DoD
+
+---
+
+## 4. KANBAN
+Pilares:
+- WIP limitado
+- Políticas explícitas
+- Lead time como métrica principal
+
+Fluxo exemplo:
+Backlog → A Fazer → Em Progresso → Revisão → Done
+
+---
+
+## 5. HÍBRIDO + MS PROJECT
+Integração:
+- Fases macro no waterfall
+- Entregas incrementais via sprints
+- RAID report ativo
+
+Passos MS Project:
+1. Inserir atividades com duração
+2. Definir predecessoras
+3. Gerar caminho crítico
+4. Salvar baseline
+5. Atualizar execução semanal
+
+---
+
+## 6. STATUS REPORT
+Modelo:
+- % concluído
+- Escopo concluído / pendente
+- Principais riscos
+- Dependências
+- Status por cor:
+  - Verde = ok
+  - Amarelo = atenção
+  - Vermelho = risco alto
+
+---
+
+## 7. FORECAST
+Ferramentas:
+- Throughput
+- Burnup/Burndown
+- Capacity Planning
+
+Cálculo exemplo:
+If velocity média = 30 pontos / sprint
+Backlog total = 120 pontos
+Tempo estimado = 4 sprints
